@@ -65,7 +65,7 @@
 "PreImportMessage" = "Ta akcja zastąpi bieżące preferencje ustawieniami z wybranego pliku.\n\nCzy na pewno chcesz kontynuować?";
 "ExportPreferences" = "Eksportuj preferencje";
 "ResetSettings" = "Przywróć ustawienia domyślne";
-"ResetMessage" = "Ta akcja przywróci domyślne ustawienia Tweach i zamknie YouTube.\n\nCzy na pewno chcesz kontynuować?";
+"ResetMessage" = "Ta akcja przywróci domyślne ustawienia Tweach i zamknie Twitch.\n\nCzy na pewno chcesz kontynuować?";
 
 "ManageCache" = "Zarządzanie pamięcią podręczną";
 "ClearCacheAtStart" = "Czyść pamięć podręczną przy uruchomieniu";
