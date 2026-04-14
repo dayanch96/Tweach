@@ -1,0 +1,154 @@
+"SettingsHeader" = "Ogólne";
+
+/* Downloading section */
+"DownloadingHeader" = "Pobieranie";
+"DownloadClips" = "Pobieranie klipów";
+"DownloadLive" = "Pobieranie transmisji";
+"DownloadVODs" = "Pobieranie VOD";
+"ProfileInfoButton" = "Przycisk informacji o profilu";
+
+/* Player section */
+"PlayerHeader" = "Odtwarzacz";
+"QualityWifi" = "Jakość przez Wi‑Fi";
+"QualityCellular" = "Jakość w sieci komórkowej";
+"Best" = "Najlepsza";
+"Default" = "Domyślna";
+"PlayerFooter" = "Wybór jakości odtwarzania działa tylko z odtwarzaczem niskich opóźnień";
+
+"ClaimPoints" = "Odbieraj punkty kanału";
+"ClaimPointsDesc" = "Automatycznie odbiera punkty kanału, gdy są dostępne";
+"SystemPlayer" = "Przycisk odtwarzacza systemowego";
+"SystemPlayerDesc" = "Otwiera multimedia w natywnym odtwarzaczu iOS";
+"LiveStats" = "Wyświetlaj statystyki na żywo";
+"LiveStatsDesc" = "Pokazuje bitrate, opóźnienie i inne informacje o strumieniu. Dostępne tylko w trybie niskich opóźnień";
+"TwoFingerTap" = "Dotknięcie dwoma palcami";
+"TwoFingerTapDesc" = "Dotknij dwoma palcami, aby odtworzyć lub wstrzymać";
+"HideClips" = "Ukryj przycisk klipów";
+"HideClipsDesc" = "Usuwa przycisk klipów z kontrolek odtwarzacza";
+"HideCast" = "Ukryj przycisk Cast";
+"HideCastDesc" = "Usuwa przycisk Cast z kontrolek odtwarzacza";
+"HideShare" = "Ukryj przycisk udostępniania";
+"HideShareDesc" = "Usuwa przycisk udostępniania z kontrolek odtwarzacza";
+"HideMature" = "Ukryj baner treści dla dorosłych";
+"HideMatureDesc" = "Automatycznie zamyka baner ostrzegający o treściach";
+"HideAspectRatio" = "Ukryj przycisk proporcji";
+"HideAspectRatioDesc" = "Usuwa przycisk proporcji z kontrolek odtwarzacza";
+"HideChat" = "Ukryj przycisk czatu";
+"HideChatDesc" = "Usuwa przycisk czatu z kontrolek odtwarzacza";
+"HideRotate" = "Ukryj przycisk obrotu";
+"HideRotateDesc" = "Usuwa przycisk obrotu z kontrolek odtwarzacza";
+"HideMute" = "Ukryj przycisk wyciszenia";
+"HideMuteDesc" = "Usuwa przycisk wyciszenia z kontrolek odtwarzacza";
+"HideSideButtons" = "Ukryj boczne przyciski";
+"HideSideButtonsDesc" = "Ukrywa przyciski interakcji wyświetlane po bokach w trybie pełnoekranowym";
+
+/* Tab bar section */
+"Tabbar" = "Pasek kart";
+"Startup" = "Karta startowa";
+"ActiveTabs" = "Aktywne karty";
+"InactiveTabs" = "Nieaktywne karty";
+"CantHideHomeTab" = "Nie można ukryć karty głównej";
+"home" = "Główna";
+"explore" = "Przeglądaj";
+"create" = "Utwórz";
+"activity" = "Aktywność";
+"profile" = "Profil";
+"following" = "Obserwowane";
+"discover" = "Odkrywaj";
+"browse" = "Przeglądaj";
+"search" = "Szukaj";
+
+/* Preferences section */
+"Advanced" = "Zaawansowane";
+"ManagePreferences" = "Zarządzanie preferencjami";
+"ImportPreferences" = "Importuj preferencje";
+"PreImportMessage" = "Ta akcja zastąpi bieżące preferencje ustawieniami z wybranego pliku.\n\nCzy na pewno chcesz kontynuować?";
+"ExportPreferences" = "Eksportuj preferencje";
+"ResetSettings" = "Przywróć ustawienia domyślne";
+"ResetMessage" = "Ta akcja przywróci domyślne ustawienia Tweach i zamknie YouTube.\n\nCzy na pewno chcesz kontynuować?";
+
+"ManageCache" = "Zarządzanie pamięcią podręczną";
+"ClearCacheAtStart" = "Czyść pamięć podręczną przy uruchomieniu";
+"ClearCache" = "Wyczyść pamięć podręczną";
+
+/* Ad block section */
+"EnableAdBlock" = "Włącz blokowanie reklam";
+"EnableAdBlockDesc" = "Blokuje reklamy w transmisjach, kanale aktualności i karcie Obserwowane";
+"EnableAdBlockProxy" = "Włącz proxy";
+"EnableAdBlockProxyDesc" = "Kieruje żądania strumienia przez serwer proxy w regionie bez reklam";
+"AdBlockProxy" = "Adres proxy";
+
+/* Developer section */
+"DeveloperHeader" = "Programista";
+"Dev.Twitter" = "Obserwuj mnie na X (Twitter)";
+"Dev.Twitch" = "Obserwuj mnie na Twitchu";
+"SupportDevelopment" = "Wesprzyj rozwój";
+
+/* Acknowledgements section */
+"AcknowledgementsHeader" = "Podziękowania";
+"SpecialThanks" = "Specjalne podziękowania";
+
+/* Patreon section */
+"Log-inViaPatreon" = "Zaloguj przez Patreon";
+"ManageAccount" = "Zarządzaj kontem";
+"AccessDenied" = "Brak dostępu";
+"LogOut" = "Wyloguj";
+"LogOutTitle" = "Wylogowanie";
+"LogOutMessage" = "Czy na pewno chcesz kontynuować?";
+
+/* UI strings */
+"ClipDetected" = "Wykryto klip. Czy chcesz go pobrać?";
+"DownloadingDuration" = "Czas pobierania";
+"RecordingDuration" = "Czas nagrywania";
+"Quality" = "Jakość";
+"audio_only" = "Tylko audio";
+"DownloadFull" = "Pobierz pełny VOD";
+"RecordUntilEnd" = "Nagrywaj do końca";
+"Download" = "Pobierz";
+"DownloadClip" = "Pobierz klip";
+"AudioOnly" = "Audio";
+"Yes" = "Tak";
+"Save" = "Zapisz";
+"Copy" = "Kopiuj";
+"Copied" = "Skopiowano";
+"NoThanks" = "Nie, dziękuję";
+"Cancel" = "Anuluj";
+"StopTitle" = "Pobieranie zostało zatrzymane.\nCzy chcesz zapisać pobraną część?";
+"SafariRedirectMessage" = "Ta akcja odtworzy bieżącą transmisję w Safari. Czy chcesz kontynuować?";
+"OpenEditor" = "Otwórz edytor klipów";
+"DownloadStory" = "Pobierz relację";
+"QueuedForDownload" = "Dodano do kolejki pobierania";
+"Preparing" = "Przygotowywanie...";
+"Error.LinkNotFound" = "Nie znaleziono linku";
+"Downloading" = "Pobieranie";
+"DownloadingVideo" = "Pobieranie wideo";
+"FailedToSave" = "Nie udało się zapisać pliku";
+"FailedToFetch" = "Nie udało się pobrać linku";
+"SavingToPath" = "Zapisywanie do wybranej lokalizacji";
+"SavedToPhotos" = "Zapisano w Zdjęciach";
+"DownloadCompleted" = "Pobieranie zakończone powodzeniem";
+"DownloadNotCompleted" = "Wystąpił błąd podczas pobierania";
+"ChannelPointsClaimed" = "Odebrano punkty kanału";
+"SwipeUpEduMessage" = "Możesz teraz przesunąć w górę na pasku kart, aby szybko otworzyć ustawienia Tweach";
+"LongTapOnTabEduMessage" = "Możesz też przytrzymać dowolną kartę, aby szybko otworzyć ustawienia paska kart";
+
+"ProfileInfo" = "Informacje o profilu";
+"UserID" = "ID użytkownika";
+"CreateDate" = "Utworzono";
+"DisplayName" = "Nazwa wyświetlana";
+"Description" = "Opis";
+"ProfilePicture" = "Zdjęcie profilowe";
+"BannerImage" = "Obraz banera";
+"OfflineBannerImage" = "Obraz banera offline";
+"SaveToPhotos" = "Zapisz w Zdjęciach";
+"Oops" = "Coś poszło nie tak...";
+"Close" = "Zamknij";
+
+"SyncTime" = "Czas synchronizacji";
+"CurrentQuality" = "Aktualna jakość";
+"FrameRate" = "Liczba klatek";
+"LiveStats" = "Statystyki na żywo";
+"Latency" = "Opóźnienie";
+"Bitrate" = "Bitrate";
+"DecodedFrames" = "Zdekodowane klatki";
+"DroppedFrames" = "Pominięte klatki";
