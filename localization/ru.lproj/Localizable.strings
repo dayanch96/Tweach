@@ -1,3 +1,14 @@
+/* Patreon section */
+"SkipLogInAlert" = "Скрыть напоминание о входе";
+"Log-inViaPatreon" = "Войти с помощью Patreon";
+"ManageAccount" = "Управление аккаунтом";
+"AccessDenied" = "Нет доступа";
+"LogOut" = "Выйти";
+"LogOutTitle" = "Выход";
+"LogOutMessage" = "Уверены, что хотите продолжить?";
+"FeaturesNotActivated" = "Вы не вошли в аккаунт. Для доступа к функциям Tweach войдите с активной подпиской Patreon.";
+
+"Search" = "Поиск";
 "SettingsHeader" = "Основные";
 
 /* Downloading section */
@@ -87,14 +98,6 @@
 "AcknowledgementsHeader" = "Благодарности";
 "SpecialThanks" = "Особая благодарность";
 
-/* Patreon section */
-"Log-inViaPatreon" = "Войти с помощью Patreon";
-"ManageAccount" = "Управление аккаунтом";
-"AccessDenied" = "Нет доступа";
-"LogOut" = "Выйти";
-"LogOutTitle" = "Выход";
-"LogOutMessage" = "Уверены, что хотите продолжить?";
-
 /* UI strings */
 "ClipDetected" = "Обнаружен клип. Хотите скачать его?";
 "DownloadingDuration" = "Длительность загрузки";
@@ -103,6 +106,7 @@
 "audio_only" = "Только аудио";
 "DownloadFull" = "Скачать целиком";
 "RecordUntilEnd" = "Записывать до окончания";
+"SaveAction" = "Действие после загрузки";
 "Download" = "Скачать";
 "DownloadClip" = "Скачать клип";
 "AudioOnly" = "Аудио";
@@ -113,7 +117,7 @@
 "NoThanks" = "Нет, спасибо";
 "Cancel" = "Отмена";
 "StopTitle" = "Загрузка была остановлена.\nХотите сохранить уже загруженный отрезок?";
-"SafariRedirectMessage" = "Это действие откроет текущую трансляцию в Safari. Хотите продолжить?";
+"SafariRedirectMessage" = "Это действие откроет текущую трансляцию в Safari.\n\nХотите продолжить?";
 "OpenEditor" = "Открыть редактор клипов";
 "DownloadStory" = "Скачать историю";
 "QueuedForDownload" = "В очереди на загрузку";

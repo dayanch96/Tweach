@@ -1,3 +1,14 @@
+/* Patreon section */
+"SkipLogInAlert" = "Ukryj przypomnienie o logowaniu";
+"Log-inViaPatreon" = "Zaloguj przez Patreon";
+"ManageAccount" = "Zarządzaj kontem";
+"AccessDenied" = "Brak dostępu";
+"LogOut" = "Wyloguj";
+"LogOutTitle" = "Wylogowanie";
+"LogOutMessage" = "Czy na pewno chcesz kontynuować?";
+"FeaturesNotActivated" = "Nie jesteś zalogowany. Aby uzyskać dostęp do funkcji Tweach, zaloguj się z aktywną subskrypcją Patreon.";
+
+"Search" = "Szukaj";
 "SettingsHeader" = "Ogólne";
 
 /* Downloading section */
@@ -65,7 +76,7 @@
 "PreImportMessage" = "Ta akcja zastąpi bieżące preferencje ustawieniami z wybranego pliku.\n\nCzy na pewno chcesz kontynuować?";
 "ExportPreferences" = "Eksportuj preferencje";
 "ResetSettings" = "Przywróć ustawienia domyślne";
-"ResetMessage" = "Ta akcja przywróci domyślne ustawienia Tweach i zamknie Twitch.\n\nCzy na pewno chcesz kontynuować?";
+"ResetMessage" = "Ta akcja przywróci domyślne ustawienia Tweach.\n\nCzy na pewno chcesz kontynuować?";
 
 "ManageCache" = "Zarządzanie pamięcią podręczną";
 "ClearCacheAtStart" = "Czyść pamięć podręczną przy uruchomieniu";
@@ -88,20 +99,13 @@
 "AcknowledgementsHeader" = "Podziękowania";
 "SpecialThanks" = "Specjalne podziękowania";
 
-/* Patreon section */
-"Log-inViaPatreon" = "Zaloguj przez Patreon";
-"ManageAccount" = "Zarządzaj kontem";
-"AccessDenied" = "Brak dostępu";
-"LogOut" = "Wyloguj";
-"LogOutTitle" = "Wylogowanie";
-"LogOutMessage" = "Czy na pewno chcesz kontynuować?";
-
 /* UI strings */
 "ClipDetected" = "Wykryto klip. Czy chcesz go pobrać?";
 "DownloadingDuration" = "Czas pobierania";
 "RecordingDuration" = "Czas nagrywania";
 "Quality" = "Jakość";
 "audio_only" = "Tylko audio";
+"SaveAction" = "Akcja po pobraniu";
 "DownloadFull" = "Pobierz pełny VOD";
 "RecordUntilEnd" = "Nagrywaj do końca";
 "Download" = "Pobierz";
@@ -114,7 +118,7 @@
 "NoThanks" = "Nie, dziękuję";
 "Cancel" = "Anuluj";
 "StopTitle" = "Pobieranie zostało zatrzymane.\nCzy chcesz zapisać pobraną część?";
-"SafariRedirectMessage" = "Ta akcja odtworzy bieżącą transmisję w Safari. Czy chcesz kontynuować?";
+"SafariRedirectMessage" = "Ta akcja odtworzy bieżącą transmisję w Safari.\n\nCzy chcesz kontynuować?";
 "OpenEditor" = "Otwórz edytor klipów";
 "DownloadStory" = "Pobierz relację";
 "QueuedForDownload" = "Dodano do kolejki pobierania";

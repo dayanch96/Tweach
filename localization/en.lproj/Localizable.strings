@@ -1,3 +1,14 @@
+/* Patreon section */
+"SkipLogInAlert" = "Suppress login reminder";
+"Log-inViaPatreon" = "Log-in via Patreon";
+"ManageAccount" = "Manage account";
+"AccessDenied" = "Access denied";
+"LogOut" = "Log out";
+"LogOutTitle" = "Log out";
+"LogOutMessage" = "Are you sure you want to continue?";
+"FeaturesNotActivated" = "You are not logged in. To access Tweach features, please log in with an active Patreon subscription.";
+
+"Search" = "Search";
 "SettingsHeader" = "General";
 
 /* Downloading section */
@@ -65,7 +76,7 @@
 "PreImportMessage" = "This action will replace the current preferences with those from the selected file.\n\nAre you sure you want to continue?";
 "ExportPreferences" = "Export Preferences";
 "ResetSettings" = "Restore Default Settings";
-"ResetMessage" = "This action will reset Tweach settings to default and close Twitch.\n\nAre you sure you want to continue?";
+"ResetMessage" = "This action will reset Tweach settings to default.\n\nAre you sure you want to continue?";
 
 "ManageCache" = "Cache Management";
 "ClearCacheAtStart" = "Clear Cache on Startup";
@@ -88,20 +99,13 @@
 "AcknowledgementsHeader" = "Acknowledgements";
 "SpecialThanks" = "Special Thanks";
 
-/* Patreon section */
-"Log-inViaPatreon" = "Log-in via Patreon";
-"ManageAccount" = "Manage account";
-"AccessDenied" = "Access denied";
-"LogOut" = "Log out";
-"LogOutTitle" = "Log out";
-"LogOutMessage" = "Are you sure you want to continue?";
-
 /* UI strings */
 "ClipDetected" = "Clip detected. Would you like to download it?";
 "DownloadingDuration" = "Downloading Duration";
 "RecordingDuration" = "Recording Duration";
 "Quality" = "Quality";
 "audio_only" = "Audio Only";
+"SaveAction" = "Action After Download";
 "DownloadFull" = "Download Full VOD";
 "RecordUntilEnd" = "Record Until End";
 "Download" = "Download";
@@ -114,7 +118,7 @@
 "NoThanks" = "No, Thanks";
 "Cancel" = "Cancel";
 "StopTitle" = "Download has been stopped.\nDo you want to save downloaded part?";
-"SafariRedirectMessage" = "This action will play current broadcast in Safari. Do you want to continue?";
+"SafariRedirectMessage" = "This action will play current broadcast in Safari.\n\nDo you want to continue?";
 "OpenEditor" = "Open clip editor";
 "DownloadStory" = "Download story";
 "QueuedForDownload" = "Queued for download";

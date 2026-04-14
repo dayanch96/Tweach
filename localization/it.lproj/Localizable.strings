@@ -1,3 +1,14 @@
+/* Patreon section */
+"SkipLogInAlert" = "Nascondi promemoria di accesso";
+"Log-inViaPatreon" = "Accedi con Patreon";
+"ManageAccount" = "Gestisci account";
+"AccessDenied" = "Accesso negato";
+"LogOut" = "Log out";
+"LogOutTitle" = "Log out";
+"LogOutMessage" = "Sei sicuro di voler continuare?";
+"FeaturesNotActivated" = "Non hai effettuato l'accesso. Per accedere alle funzioni di Tweach, accedi con un abbonamento Patreon attivo.";
+
+"Search" = "Cerca";
 "SettingsHeader" = "Generali";
 
 /* Downloading section */
@@ -65,7 +76,7 @@
 "PreImportMessage" = "Questa operazione sostituirà le impostazioni attuali con quelle contenute nel file selezionato.\n\nSei sicuro di voler continuare?";
 "ExportPreferences" = "Esporta Impostazioni";
 "ResetSettings" = "Ripristina Impostazioni di default";
-"ResetMessage" = "Questa operazione ripristinerà le impostazioni predefinite di Tweach e chiuderà Twitch.\n\nSei sicuro di voler continuare?";
+"ResetMessage" = "Questa operazione ripristinerà le impostazioni predefinite di Tweach.\n\nSei sicuro di voler continuare?";
 
 "ManageCache" = "Gestione Cache";
 "ClearCacheAtStart" = "Cancella Cache all'avvio";
@@ -88,20 +99,13 @@
 "AcknowledgementsHeader" = "Riconoscimenti";
 "SpecialThanks" = "Ringraziamenti speciali";
 
-/* Patreon section */
-"Log-inViaPatreon" = "Accedi con Patreon";
-"ManageAccount" = "Gestisci account";
-"AccessDenied" = "Accesso negato";
-"LogOut" = "Log out";
-"LogOutTitle" = "Log out";
-"LogOutMessage" = "Sei sicuro di voler continuare?";
-
 /* UI strings */
 "ClipDetected" = "Clip rilevata. Vuoi scaricarla?";
 "DownloadingDuration" = "Durata del download";
 "RecordingDuration" = "Durata della registrazione";
 "Quality" = "Qualità";
 "audio_only" = "Solo Audio";
+"SaveAction" = "Azione dopo il download";
 "DownloadFull" = "Scarica tutto il VOD";
 "RecordUntilEnd" = "Registra fino alla fine";
 "Download" = "Scarica";
@@ -114,7 +118,7 @@
 "NoThanks" = "No, Grazie";
 "Cancel" = "Cancella";
 "StopTitle" = "Il download è stato interrotto.\nVuoi salvare la parte scaricata?";
-"SafariRedirectMessage" = "Questa operazione riprodurra la stream in Safari. Vuoi continuare?";
+"SafariRedirectMessage" = "Questa operazione riprodurra la stream in Safari.\n\nVuoi continuare?";
 "OpenEditor" = "Apri clip editor";
 "DownloadStory" = "Scarica story";
 "QueuedForDownload" = "In coda per il download";
