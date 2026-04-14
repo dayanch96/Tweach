@@ -65,7 +65,7 @@
 "PreImportMessage" = "This action will replace the current preferences with those from the selected file.\n\nAre you sure you want to continue?";
 "ExportPreferences" = "Export Preferences";
 "ResetSettings" = "Restore Default Settings";
-"ResetMessage" = "This action will reset Tweach settings to default and close YouTube.\n\nAre you sure you want to continue?";
+"ResetMessage" = "This action will reset Tweach settings to default and close Twitch.\n\nAre you sure you want to continue?";
 
 "ManageCache" = "Cache Management";
 "ClearCacheAtStart" = "Clear Cache on Startup";

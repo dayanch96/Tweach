@@ -1,0 +1,154 @@
+"SettingsHeader" = "Generali";
+
+/* Downloading section */
+"DownloadingHeader" = "Downloading";
+"DownloadClips" = "Scarica Clip";
+"DownloadLive" = "Scarica Broadcasts";
+"DownloadVODs" = "Scarica VOD";
+"ProfileInfoButton" = "Pulsante Info Profilo";
+
+/* Player section */
+"PlayerHeader" = "Player";
+"QualityWifi" = "Qualità in WiFi";
+"QualityCellular" = "Qualità in Rete Dati";
+"Best" = "Migliore";
+"Default" = "Default";
+"PlayerFooter" = "La scelta della qualità di riproduzione funziona solo con il Player a bassa latenza";
+
+"ClaimPoints" = "Riscuoti punti canale";
+"ClaimPointsDesc" = "Riscuoti automaticamente i punti canale quando disponibili";
+"SystemPlayer" = "Bottone Player Nativo";
+"SystemPlayerDesc" = "Apri i contenuti nel player nativo di iOS";
+"LiveStats" = "Mostra Statistiche Live";
+"LiveStatsDesc" = "Mostra bitrate, latenza e altre info della stream. Disponibile solo in modalità bassa latenza";
+"TwoFingerTap" = "Tocco con due dita";
+"TwoFingerTapDesc" = "Tocca con due dita per mettere in Play o Pausa";
+"HideClips" = "Nascondi tasto Clip";
+"HideClipsDesc" = "Rimuove il tasto Clip dai controlli del player";
+"HideCast" = "Nascondi tasto Cast";
+"HideCastDesc" = "Rimuove il tasto Cast dai controlli del player";
+"HideShare" = "Nascondi tasto Share";
+"HideShareDesc" = "Rimuove il tasto Share dai controlli del player";
+"HideMature" = "Nascondi Banner per Adulti";
+"HideMatureDesc" = "Rimuove automaticamente il banner del content warning";
+"HideAspectRatio" = "Nascondi tasto Aspect Ratio";
+"HideAspectRatioDesc" = "Rimuove il tasto Aspect Ratio dai controlli del player";
+"HideChat" = "Nascondi tasto Chat";
+"HideChatDesc" = "Rimuove il tasto Chat dai controlli del player";
+"HideRotate" = "Nascondi Tasto Ruota";
+"HideRotateDesc" = "Rimuove il tasto Ruota dai controlli del player";
+"HideMute" = "Nascondi tasto Muta";
+"HideMuteDesc" = "Rimuove il tasto Muta dai controlli del player";
+"HideSideButtons" = "Nascondi tasti a lato";
+"HideSideButtonsDesc" = "Rimuove i tasti sul lato quando in modalità schermo intero";
+
+/* Tab bar section */
+"Tabbar" = "Tab bar";
+"Startup" = "Tab di avvio";
+"ActiveTabs" = "Tab attive";
+"InactiveTabs" = "Tab disattive";
+"CantHideHomeTab" = "Non puoi nascondere il Tab Home";
+"home" = "Home";
+"explore" = "Esplora";
+"create" = "Crea";
+"activity" = "Attività";
+"profile" = "Profilo";
+"following" = "Seguiti";
+"discover" = "Scopri";
+"browse" = "Naviga";
+"search" = "Cerca";
+
+/* Preferences section */
+"Advanced" = "Avanzate";
+"ManagePreferences" = "Gestione Impostazioni";
+"ImportPreferences" = "Importa Impostazioni";
+"PreImportMessage" = "Questa operazione sostituirà le impostazioni attuali con quelle contenute nel file selezionato.\n\nSei sicuro di voler continuare?";
+"ExportPreferences" = "Esporta Impostazioni";
+"ResetSettings" = "Ripristina Impostazioni di default";
+"ResetMessage" = "Questa operazione ripristinerà le impostazioni predefinite di Tweach e chiuderà Twitch.\n\nSei sicuro di voler continuare?";
+
+"ManageCache" = "Gestione Cache";
+"ClearCacheAtStart" = "Cancella Cache all'avvio";
+"ClearCache" = "Cancella Cache";
+
+/* Ad block section */
+"EnableAdBlock" = "Abilita Ad Block";
+"EnableAdBlockDesc" = "Blocca le pubblicità nelle live, nel feed e nel tab seguiti";
+"EnableAdBlockProxy" = "Abilita Proxy";
+"EnableAdBlockProxyDesc" = "Instrada le richieste delle stream ad un server proxy situato in una regione senza pubblicità";
+"AdBlockProxy" = "Indirizzo Proxy";
+
+/* Developer section */
+"DeveloperHeader" = "Sviluppatore";
+"Dev.Twitter" = "Seguimi su X (Twitter)";
+"Dev.Twitch" = "Seguimi su Twitch";
+"SupportDevelopment" = "Supporta lo Sviluppo";
+
+/* Acknowledgements section */
+"AcknowledgementsHeader" = "Riconoscimenti";
+"SpecialThanks" = "Ringraziamenti speciali";
+
+/* Patreon section */
+"Log-inViaPatreon" = "Accedi con Patreon";
+"ManageAccount" = "Gestisci account";
+"AccessDenied" = "Accesso negato";
+"LogOut" = "Log out";
+"LogOutTitle" = "Log out";
+"LogOutMessage" = "Sei sicuro di voler continuare?";
+
+/* UI strings */
+"ClipDetected" = "Clip rilevata. Vuoi scaricarla?";
+"DownloadingDuration" = "Durata del download";
+"RecordingDuration" = "Durata della registrazione";
+"Quality" = "Qualità";
+"audio_only" = "Solo Audio";
+"DownloadFull" = "Scarica tutto il VOD";
+"RecordUntilEnd" = "Registra fino alla fine";
+"Download" = "Scarica";
+"DownloadClip" = "Scarica Clip";
+"AudioOnly" = "Audio";
+"Yes" = "Sì";
+"Save" = "Salva";
+"Copy" = "Copia";
+"Copied" = "Copiato";
+"NoThanks" = "No, Grazie";
+"Cancel" = "Cancella";
+"StopTitle" = "Il download è stato interrotto.\nVuoi salvare la parte scaricata?";
+"SafariRedirectMessage" = "Questa operazione riprodurra la stream in Safari. Vuoi continuare?";
+"OpenEditor" = "Apri clip editor";
+"DownloadStory" = "Scarica story";
+"QueuedForDownload" = "In coda per il download";
+"Preparing" = "Preparo...";
+"Error.LinkNotFound" = "Link non trovato";
+"Downloading" = "Scaricando";
+"DownloadingVideo" = "Scaricando video";
+"FailedToSave" = "Impossibile salvare il file";
+"FailedToFetch" = "Impossibile recuperare il link";
+"SavingToPath" = "Salvo nel percorso selezionato";
+"SavedToPhotos" = "Salvato in Galleria";
+"DownloadCompleted" = "Download completato";
+"DownloadNotCompleted" = "Si è verificato un errore durante il download";
+"ChannelPointsClaimed" = "Punti canale riscossi";
+"SwipeUpEduMessage" = "Ora puoi scorrere verso l'alto sulla barra delle schede per accedere rapidamente alle impostazioni di Tweach";
+"LongTapOnTabEduMessage" = "Puoi anche tenere premuta una scheda qualsiasi per accedere rapidamente alle impostazioni della barra delle schede";
+
+"ProfileInfo" = "Info Profilo";
+"UserID" = "UserID";
+"CreateDate" = "Creato alle";
+"DisplayName" = "Mostra nome";
+"Description" = "Descrizione";
+"ProfilePicture" = "Immagine profilo";
+"BannerImage" = "Immagine banner";
+"OfflineBannerImage" = "Immagine banner offline";
+"SaveToPhotos" = "Salva nella galleria";
+"Oops" = "Qualcosa è andato storto...";
+"Close" = "Chiudi";
+
+"SyncTime" = "Sync time";
+"CurrentQuality" = "Qualità attuale";
+"FrameRate" = "Frame rate";
+"LiveStats" = "Statistiche Live";
+"Latency" = "Latenza";
+"Bitrate" = "Bitrate";
+"DecodedFrames" = "Frame decodificati";
+"DroppedFrames" = "Frame droppati";
