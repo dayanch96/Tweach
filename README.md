@@ -40,6 +40,6 @@ Download your favorite Clips, VODs and Live Streams with Tweach.
 ## Supported Twitch Version
 <ul>
    <li><strong>Latest confirmed:</strong> <em>29.1</em></li>
-   <li><strong>Date tested:</strong> <em>April 23, 2026</em></li>
-   <li><strong>Tweach:</strong> <em>2.3.2</em></li>
+   <li><strong>Date tested:</strong> <em>April 24, 2026</em></li>
+   <li><strong>Tweach:</strong> <em>2.3.3</em></li>
 </ul>
