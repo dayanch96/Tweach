@@ -103,7 +103,7 @@
 
 /* Acknowledgements section */
 "AcknowledgementsHeader" = "Podziękowania";
-"OpenSourceLibs" = "Open Source Libraries";
+"OpenSourceLibs" = "Biblioteki Open Source";
 "SpecialThanks" = "Specjalne podziękowania";
 
 /* UI strings */
@@ -118,9 +118,9 @@
 "Download" = "Pobierz";
 "DownloadClip" = "Pobierz klip";
 "AudioOnly" = "Audio";
-"Warning" = "Warning";
+"Warning" = "Uwaga";
 "Yes" = "Tak";
-"No" = "No";
+"No" = "Nie";
 "Save" = "Zapisz";
 "Copy" = "Kopiuj";
 "Copied" = "Skopiowano";
