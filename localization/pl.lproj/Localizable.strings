@@ -1,12 +1,13 @@
-/* Patreon section */
+/* Account section */
+"Account" = "Konto";
 "SkipLogInAlert" = "Ukryj przypomnienie o logowaniu";
-"Log-inViaPatreon" = "Zaloguj przez Patreon";
+"LogIn" = "Zaloguj się";
 "ManageAccount" = "Zarządzaj kontem";
 "AccessDenied" = "Brak dostępu";
 "LogOut" = "Wyloguj";
 "LogOutTitle" = "Wylogowanie";
 "LogOutMessage" = "Czy na pewno chcesz kontynuować?";
-"FeaturesNotActivated" = "Nie jesteś zalogowany. Aby uzyskać dostęp do funkcji Tweach, zaloguj się z aktywną subskrypcją Patreon.";
+"FeaturesNotActivated" = "Nie jesteś zalogowany. Aby uzyskać dostęp do funkcji Tweach, zaloguj się na konto z aktywną subskrypcją.";
 
 "Search" = "Szukaj";
 "SettingsHeader" = "Ogólne";
@@ -95,8 +96,14 @@
 "Dev.Twitch" = "Obserwuj mnie na Twitchu";
 "SupportDevelopment" = "Wesprzyj rozwój";
 
+"DonateMessage" = "Jeśli podoba Ci się Tweach i chcesz mnie wesprzeć, możesz postawić mi kawę w dowolny z poniższych wygodnych sposobów.\n\nDzięki❤";
+"MaybeLater" = "Może później";
+"Copied" = "Skopiowano do schowka";
+"Thanks" = "Dziękuję";
+
 /* Acknowledgements section */
 "AcknowledgementsHeader" = "Podziękowania";
+"OpenSourceLibs" = "Open Source Libraries";
 "SpecialThanks" = "Specjalne podziękowania";
 
 /* UI strings */
@@ -111,7 +118,9 @@
 "Download" = "Pobierz";
 "DownloadClip" = "Pobierz klip";
 "AudioOnly" = "Audio";
+"Warning" = "Warning";
 "Yes" = "Tak";
+"No" = "No";
 "Save" = "Zapisz";
 "Copy" = "Kopiuj";
 "Copied" = "Skopiowano";

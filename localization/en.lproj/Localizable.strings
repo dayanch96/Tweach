@@ -1,12 +1,14 @@
 /* Patreon section */
+"Account" = "Account";
 "SkipLogInAlert" = "Suppress login reminder";
-"Log-inViaPatreon" = "Log-in via Patreon";
+"LogIn" = "Log in";
 "ManageAccount" = "Manage account";
 "AccessDenied" = "Access denied";
 "LogOut" = "Log out";
 "LogOutTitle" = "Log out";
 "LogOutMessage" = "Are you sure you want to continue?";
-"FeaturesNotActivated" = "You are not logged in. To access Tweach features, please log in with an active Patreon subscription.";
+"FeaturesNotActivated" = "You are not logged in. To access Tweach features, please log in to an account with an active subscription.";
+
 
 "Search" = "Search";
 "SettingsHeader" = "General";
@@ -76,7 +78,7 @@
 "PreImportMessage" = "This action will replace the current preferences with those from the selected file.\n\nAre you sure you want to continue?";
 "ExportPreferences" = "Export Preferences";
 "ResetSettings" = "Restore Default Settings";
-"ResetMessage" = "This action will reset Tweach settings to default.\n\nAre you sure you want to continue?";
+"ResetMessage" = "This action will reset Tweach settings to default\n\nAre you sure you want to continue?";
 
 "ManageCache" = "Cache Management";
 "ClearCacheAtStart" = "Clear Cache on Startup";
@@ -95,8 +97,14 @@
 "Dev.Twitch" = "Follow Me on Twitch";
 "SupportDevelopment" = "Support Development";
 
+"DonateMessage" = "If you like Tweach and would like to support me, you can buy me a coffee using any of convenient ways below.\n\nThanks❤";
+"MaybeLater" = "Maybe later";
+"Copied" = "Copied to clipboard";
+"Thanks" = "Thanks";
+
 /* Acknowledgements section */
 "AcknowledgementsHeader" = "Acknowledgements";
+"OpenSourceLibs" = "Open Source Libraries";
 "SpecialThanks" = "Special Thanks";
 
 /* UI strings */
@@ -111,7 +119,9 @@
 "Download" = "Download";
 "DownloadClip" = "Download Clip";
 "AudioOnly" = "Audio";
+"Warning" = "Warning";
 "Yes" = "Yes";
+"No" = "No";
 "Save" = "Save";
 "Copy" = "Copy";
 "Copied" = "Copied";

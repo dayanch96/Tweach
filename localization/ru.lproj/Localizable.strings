@@ -1,12 +1,13 @@
-/* Patreon section */
+/* Account section */
+"Account" = "Аккаунт";
 "SkipLogInAlert" = "Скрыть напоминание о входе";
-"Log-inViaPatreon" = "Войти с помощью Patreon";
+"LogIn" = "Авторизация";
 "ManageAccount" = "Управление аккаунтом";
 "AccessDenied" = "Нет доступа";
 "LogOut" = "Выйти";
 "LogOutTitle" = "Выход";
 "LogOutMessage" = "Уверены, что хотите продолжить?";
-"FeaturesNotActivated" = "Вы не вошли в аккаунт. Для доступа к функциям Tweach войдите с активной подпиской Patreon.";
+"FeaturesNotActivated" = "Вы не вошли в аккаунт. Для доступа к функциям Tweach войдите в аккаунт с активной подпиской.";
 
 "Search" = "Поиск";
 "SettingsHeader" = "Основные";
@@ -94,8 +95,14 @@
 "Dev.Twitch" = "Подписаться на мой Twitch";
 "SupportDevelopment" = "Поддержать разработку";
 
+"DonateMessage" = "Если вам понравился Tweach или же вы просто хотели бы поддержать меня, то можете угостить чашечкой кофе любым подходящим ниже способом.\n\nСпасибо❤";
+"MaybeLater" = "Возможно, позже";
+"Copied" = "Скопировано в буфер обмена";
+"Thanks" = "Спасибо";
+
 /* Acknowledgements section */
 "AcknowledgementsHeader" = "Благодарности";
+"OpenSourceLibs" = "Библиотеки с исходным кодом";
 "SpecialThanks" = "Особая благодарность";
 
 /* UI strings */
@@ -113,7 +120,9 @@
 "Save" = "Сохранить";
 "Copy" = "Копировать";
 "Copied" = "Скопировано";
+"Warning" = "Внимание";
 "Yes" = "Да";
+"No" = "Нет";
 "NoThanks" = "Нет, спасибо";
 "Cancel" = "Отмена";
 "StopTitle" = "Загрузка была остановлена.\nХотите сохранить уже загруженный отрезок?";

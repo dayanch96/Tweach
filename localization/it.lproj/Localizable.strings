@@ -95,8 +95,14 @@
 "Dev.Twitch" = "Seguimi su Twitch";
 "SupportDevelopment" = "Supporta lo Sviluppo";
 
+"DonateMessage" = "Se ti piace Tweach e vorresti supportarmi, puoi offrirmi un caffè usando uno dei metodi convenienti qui sotto.\n\nGrazie❤";
+"MaybeLater" = "Forse più tardi";
+"Copied" = "Copiato negli appunti";
+"Thanks" = "Grazie";
+
 /* Acknowledgements section */
 "AcknowledgementsHeader" = "Riconoscimenti";
+"OpenSourceLibs" = "Open Source Libraries";
 "SpecialThanks" = "Ringraziamenti speciali";
 
 /* UI strings */
@@ -111,7 +117,9 @@
 "Download" = "Scarica";
 "DownloadClip" = "Scarica Clip";
 "AudioOnly" = "Audio";
+"Warning" = "Warning";
 "Yes" = "Sì";
+"No" = "No";
 "Save" = "Salva";
 "Copy" = "Copia";
 "Copied" = "Copiato";
