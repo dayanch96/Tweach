@@ -83,6 +83,10 @@
 "ClearCacheAtStart" = "Czyść pamięć podręczną przy uruchomieniu";
 "ClearCache" = "Wyczyść pamięć podręczną";
 
+"Updates" = "Updates";
+"NotifyUpdates" = "Notify Updates";
+"NotifyUpdatesDesc" = "Shows an alert if a new version of the tweak is available";
+
 /* Ad block section */
 "EnableAdBlock" = "Włącz blokowanie reklam";
 "EnableAdBlockDesc" = "Blokuje reklamy w transmisjach, kanale aktualności i karcie Obserwowane";

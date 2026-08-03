@@ -1,4 +1,5 @@
 /* Patreon section */
+"Account" = "Account";
 "SkipLogInAlert" = "Nascondi promemoria di accesso";
 "Log-inViaPatreon" = "Accedi con Patreon";
 "ManageAccount" = "Gestisci account";
@@ -81,6 +82,10 @@
 "ManageCache" = "Gestione Cache";
 "ClearCacheAtStart" = "Cancella Cache all'avvio";
 "ClearCache" = "Cancella Cache";
+
+"Updates" = "Aggiornamenti";
+"NotifyUpdates" = "Notifica Aggiornamenti";
+"NotifyUpdatesDesc" = "Mostra un avviso se è disponibile una nuova versione del tweak";
 
 /* Ad block section */
 "EnableAdBlock" = "Abilita Ad Block";

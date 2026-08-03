@@ -9,7 +9,6 @@
 "LogOutMessage" = "Are you sure you want to continue?";
 "FeaturesNotActivated" = "You are not logged in. To access Tweach features, please log in to an account with an active subscription.";
 
-
 "Search" = "Search";
 "SettingsHeader" = "General";
 
@@ -83,6 +82,10 @@
 "ManageCache" = "Cache Management";
 "ClearCacheAtStart" = "Clear Cache on Startup";
 "ClearCache" = "Clear Cache";
+
+"Updates" = "Updates";
+"NotifyUpdates" = "Notify Updates";
+"NotifyUpdatesDesc" = "Shows an alert if a new version of the tweak is available";
 
 /* Ad block section */
 "EnableAdBlock" = "Enable Ad Block";

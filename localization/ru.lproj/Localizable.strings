@@ -70,6 +70,7 @@
 "browse" = "Просмотр";
 "search" = "Поиск";
 
+/* Preferences section */
 "Advanced" = "Дополнительно";
 "ManagePreferences" = "Управление настройками";
 "ImportPreferences" = "Импортировать настройки";
@@ -81,6 +82,10 @@
 "ManageCache" = "Управление кешем";
 "ClearCacheAtStart" = "Очищать кеш при запуске";
 "ClearCache" = "Очистить кеш";
+
+"Updates" = "Обновления";
+"NotifyUpdates" = "Оповещать об обновлениях";
+"NotifyUpdatesDesc" = "Показывает оповещение, если доступна новая версия твика";
 
 /* Ad block section */
 "EnableAdBlock" = "Блокировка рекламы";
