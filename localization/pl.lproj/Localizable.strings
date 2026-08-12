@@ -83,9 +83,9 @@
 "ClearCacheAtStart" = "Czyść pamięć podręczną przy uruchomieniu";
 "ClearCache" = "Wyczyść pamięć podręczną";
 
-"Updates" = "Updates";
-"NotifyUpdates" = "Notify Updates";
-"NotifyUpdatesDesc" = "Shows an alert if a new version of the tweak is available";
+"Updates" = "Aktualizacje";
+"NotifyUpdates" = "Powiadamiaj o aktualizacjach";
+"NotifyUpdatesDesc" = "Wyświetla powiadomienie, gdy dostępna jest nowa wersja Tweach";
 
 /* Ad block section */
 "EnableAdBlock" = "Włącz blokowanie reklam";
